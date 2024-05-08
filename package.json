@@ -1,0 +1,21 @@
+{
+  "name": "browser-esm-webpack",
+  "scripts": {
+    "build": "webpack --progress"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "css-loader": "^7.1.1",
+    "file-loader": "^6.2.0",
+    "monaco-editor": "^0.48.0",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.91.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
