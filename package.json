@@ -12,10 +12,12 @@
     "css-loader": "^7.1.1",
     "file-loader": "^6.2.0",
     "monaco-editor": "^0.48.0",
-    "style-loader": "^4.0.0",
-    "webpack": "^5.91.0"
+    "style-loader": "^4.0.0"
   },
   "devDependencies": {
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.4.5",
+    "webpack": "^5.91.0",
     "webpack-cli": "^5.1.4"
   }
 }
